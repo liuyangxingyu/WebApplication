@@ -12,7 +12,10 @@ namespace WebApplication.Controllers
         {
             return View();
         }
-
+        public ActionResult AAAAAA()
+        {
+            return View();
+        }
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
